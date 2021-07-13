@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 from setuptools import setup, find_packages
-from . import __version__
+from eppe import __version__
 
 setup(
 	name='paleocore-eppe',
