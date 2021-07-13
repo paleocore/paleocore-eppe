@@ -12,7 +12,7 @@ setup(
 	url='https://github.com/paleocore/eppe',
 	packages=find_packages(),
 	include_package_data=True,
-	install_requires=('Django>=2.2.24', 'paleocore-lite>=0.1.0'),
+	install_requires=('Django>=2.2.24'),
 	zip_safe=False,
 	license='MIT',
 	classifiers=(
