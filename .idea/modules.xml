@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/eppe.iml" filepath="$PROJECT_DIR$/.idea/eppe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../paleocore-eppe/.idea/paleocore-eppe.iml" filepath="$PROJECT_DIR$/../paleocore-eppe/.idea/paleocore-eppe.iml" />
     </modules>
   </component>
 </project>
